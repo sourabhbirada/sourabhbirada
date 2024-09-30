@@ -54,5 +54,6 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" alt="Top languages" /></a> |
+ 
 | ------------- | ------------- |

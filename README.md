@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on Node.js and React .</li>
-  <li>- 🌱 I’m currently learning NextJS </li>
+  <li>- 🌱 I’m currently learning Blockchain </li>
   <li>- 🤔 I’m looking for help with Competitive Programming</li>
   <li>- 💬 Ask me about anything</li>
 </ul>

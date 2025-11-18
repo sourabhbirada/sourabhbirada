@@ -5,21 +5,15 @@
 <br/>
 
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">
+      <h3 align="center">
         ⚡ Drink Red Bull and Give Wings to Your Code ⚡
       </h3>
-      <p align="left" style="font-size: 18px; line-height: 2;">
+      <p align="left">
         🚀 Full-Stack Developer <br><br>
         🤖 Working on AI agents and MCP servers <br><br>
         🤝 Open for collaboration projects
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF"/>
-    </td>
-  </tr>
+      <!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding GIF"/> -->
 </table>
 
 <br/>
